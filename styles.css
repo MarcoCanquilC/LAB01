@@ -1,0 +1,31 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Contenedor{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.Datos{
+    margin-left: 45vh;
+    
+}
+
+.Foto{
+    margin-right: 45vh;
+    
+}
+
+.texto_seccion{
+    margin-bottom: 30px;
+}
+
+.titulo_seccion,
+.texto_seccion {
+    margin-left: 57vh;
+    margin-right: 57vh;
+    text-align: justify;
+}
+
